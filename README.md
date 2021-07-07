@@ -1,7 +1,6 @@
+![Web Developer Roadmap - 2021](https://i.imgur.com/4u3LK4j.png)
 
-![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
-
-> Roadmap to becoming a web developer in 2020
+> Roadmap to becoming a web developer in 2021
 
 [![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 [![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
@@ -32,7 +31,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 <h3 align="center"><strong>Note to Beginners</strong></h3>
 
-> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2020 release of the Backend and DevOps roadmaps.
+> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2021 release of the Backend and DevOps roadmaps.
 
 ***
 
@@ -40,19 +39,19 @@ If you think that these can be improved in any way, please do suggest.
 
 ## Introduction
 
-![Web Developer Roadmap Introduction](./img/intro.png)
+![Web Developer Roadmap Introduction](./img/intro.png?v=2021)
 
 ## Frontend Roadmap
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-![Frontend Roadmap](./img/frontend.png?year-2020-2)
+![Frontend Roadmap](./img/frontend.png?year-2021-2)
 
 ## Back-end Roadmap 
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
-![Back-end Roadmap](./img/backend.png?year-2020-2)
+![Back-end Roadmap](./img/backend.png?year-2021-2)
 
 ## DevOps Roadmap
 
@@ -60,11 +59,11 @@ If you think that these can be improved in any way, please do suggest.
 
 ![DevOps Roadmap](./img/devops.png)
 
-## 🚦 Wrap Up
+## Wrap Up
 
 If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
 
-## 🙌 Contribution
+## Contribution
 
 > Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
 
@@ -72,7 +71,34 @@ If you think any of the roadmaps can be improved, feel free to discuss it in the
 - Discuss ideas in issues
 - Spread the word
 - Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
- 
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+	<p>
+		<sup>
+			<a href="https://github.com/sponsors/kamranahmedse">My open source work is supported by the community</a>
+		</sup>
+	</p>
+	<sup>Special thanks to:</sup>
+	<br>
+	<p>
+	<a href="https://oss.capital">
+		<div>
+			<img src="./.github/sponsors/oss-logo.svg" width="300" alt="OSS Capital">
+		</div>
+		<div>
+			<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
+		</div>
+	</a>
+	</p>
+</div>
+
+<br>
+
+
 ## License
 
 Have a look at the [license file](./LICENSE) for details
